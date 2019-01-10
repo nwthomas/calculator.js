@@ -1,2 +1,3 @@
-# calculator
-A calculator built using CSS and vanilla JavaScript for logic
+# Calculator
+
+A calculator built using CSS and vanilla JavaScript for logic.

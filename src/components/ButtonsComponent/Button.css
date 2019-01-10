@@ -23,6 +23,14 @@
   background: white;
   color: black;
   font-weight: 500;
+  outline: 0;
+}
+
+.number__button:active {
+  background: #f0f0f0;
+  -webkit-box-shadow: inset 7px 26px 98px -13px rgba(0, 0, 0, 0.26);
+  -moz-box-shadow: inset 7px 26px 98px -13px rgba(0, 0, 0, 0.26);
+  box-shadow: inset 7px 26px 98px -13px rgba(0, 0, 0, 0.26);
 }
 
 .clear__button {
@@ -59,4 +67,12 @@
   background: #96001c;
   color: white;
   padding-bottom: 15px;
+  outline: 0;
+}
+
+.operator__button:active {
+  background: #b24559;
+  -webkit-box-shadow: inset 7px 26px 98px -13px rgba(0, 0, 0, 0.26);
+  -moz-box-shadow: inset 7px 26px 98px -13px rgba(0, 0, 0, 0.26);
+  box-shadow: inset 7px 26px 98px -13px rgba(0, 0, 0, 0.26);
 }
